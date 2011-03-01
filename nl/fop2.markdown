@@ -1,10 +1,10 @@
-# Foundations of Programming 2 #
+ï»¿# Foundations of Programming 2 #
 > "Als iets je niet meteen lukt, probeer, probeer, probeer opnieuw" - William E. Hickson
 
 ## Licentie ##
 Foundations of Programming 2 is gelicenseerd onder de Attribution-NonCommercial 3.0 Unported licentie. **Je zou niet voor dit boek betaald mogen hebben.**
 
-Je bent in vrij om dit boek te kopiëren, te verdelen, aan te passen of te tonen aan anderen. Ik vraag echter wel om het boek altijd aan mij, Karl Seguin, toe te schrijven en het boek niet voor commerciële doeleinden te gebruiken.
+Je bent in vrij om dit boek te kopiÃ«ren, te verdelen, aan te passen of te tonen aan anderen. Ik vraag echter wel om het boek altijd aan mij, Karl Seguin, toe te schrijven en het boek niet voor commerciÃ«le doeleinden te gebruiken.
 
 Je kan de volledige tekst van de licentie hier bekijken:
 <http://creativecommons.org/licenses/by-nc/3.0/legalcode>
@@ -15,7 +15,7 @@ Dit boek is momenteel nog in ontwikkeling. De uiteindelijke versie wordt begin f
 De laatste versie kan je altijd vinden op <http://github.com/karlseguin/foundations2>.
 
 ## Over de auteur ##
-Karl Seguin is een developer met ervaring in verscheidene gebieden en technologieën. Hij is een expert .NET developer en een groeiend Ruby developer. Hij is bekend met alle aspecten van web development, concurrent en socket programming and verscheidene SQL en NoSQL technologieën. Hij is een redelijk actieve medewerker aan OSS projecten, een technisch auteur en een occasionele spreker.
+Karl Seguin is een developer met ervaring in verscheidene gebieden en technologieÃ«n. Hij is een expert .NET developer en een groeiend Ruby developer. Hij is bekend met alle aspecten van web development, concurrent en socket programming and verscheidene SQL en NoSQL technologieÃ«n. Hij is een redelijk actieve medewerker aan OSS projecten, een technisch auteur en een occasionele spreker.
 
 Zijn blog is te vinden op <http://openmymind.net> en zijn Twitter account is [@karlseguin](http://twitter.com/karlseguin)
 
@@ -26,12 +26,12 @@ Het aantal gepassioneerde programmeurs dat ik tegenkom blijft me verbazen. We sp
 
 Je zal waarschijnlijk wel inzien dat enthousiasme en gedrevenheid behoorlijk belangrijke eigenschappen zijn om te hebben in zo een jong vakgebied. Technologie blijft aan een snel tempo veranderen, het vakgebied breidt uit, en systemen worden steeds maar complexer. Het resultaat is een duidelijk verschil tussen programmeurs die wel en niet van hun vak houden. Ofwel ben je aan het leren, aan het proberen en soms aan het falen, of je zit vast in het verleden en vaak nog niet eens beseffend hoe ver je achterop bent geraakt.
 
-Jammer genoeg is het niet altijd genoeg om gepassioneerd te zijn door wat je doet. We hebben allemaal verschillende sterktes en zwaktes, andere manieren om te leren, en een andere manier om met mislukkingen om te gaan. Er is ook een continue aanbod aan nieuwe technologieën waardoor het moeilijk wordt om te beslissen waarin je tijd wilt investeren om ze te leren. De waarheid is dat ik geen geweldige programmeur ben. Ik ben een goede programmeur die graag bijleert (en les geeft) en graag met technologie speelt. Ik heb sommige mensen er slechts enkele dagen over zien doen om nieuwe talen te leren terwijl ik er maanden voor nodig had, of een algoritme zien schrijven waarvan ik moest veinzen dat ik het goed vond, gewoon omdat ik niet kon volgen. De Foundations of Programming reeks is bedoeld om mensen zoals mezelf te helpen. Mensen die belang hechten aan wat ze doen en het ook beter willen doen, maar niet altijd zeker weten hoe ze dat kunnen.
+Jammer genoeg is het niet altijd genoeg om gepassioneerd te zijn door wat je doet. We hebben allemaal verschillende sterktes en zwaktes, andere manieren om te leren, en een andere manier om met mislukkingen om te gaan. Er is ook een continue aanbod aan nieuwe technologieÃ«n waardoor het moeilijk wordt om te beslissen waarin je tijd wilt investeren om ze te leren. De waarheid is dat ik geen geweldige programmeur ben. Ik ben een goede programmeur die graag bijleert (en les geeft) en graag met technologie speelt. Ik heb sommige mensen er slechts enkele dagen over zien doen om nieuwe talen te leren terwijl ik er maanden voor nodig had, of een algoritme zien schrijven waarvan ik moest veinzen dat ik het goed vond, gewoon omdat ik niet kon volgen. De Foundations of Programming reeks is bedoeld om mensen zoals mezelf te helpen. Mensen die belang hechten aan wat ze doen en het ook beter willen doen, maar niet altijd zeker weten hoe ze dat kunnen.
 
 Ik hoop dat dit boek je daarbij zal helpen.
 
 ### Met respect voor het origineel ###
-Het [originele Foundations of Programming](https://github.com/karlseguin/Foundations-of-Programming-Ebook) was, naar mijn eigen normen, een succes. Het is blijkbaar effectief een hulp geweest voor developer en voldeed aan een vraag die er duidelijk was. Elk boek, het originele en dit, staat los van het andere. Indien je van plan bent het originele boek te lezen, dan raad ik je wel aan dat te doen voor je verder gaat met dit boek. Mijn standpunten zijn geëvolueerd en sommige gevallen volledig veranderd of duidelijker geworden. Ik denk dat je sowieso al veel kan leren door te zien hoe ik zelf als programmeur geëvolueerd ben.
+Het [originele Foundations of Programming](https://github.com/karlseguin/Foundations-of-Programming-Ebook) was, naar mijn eigen normen, een succes. Het is blijkbaar effectief een hulp geweest voor developer en voldeed aan een vraag die er duidelijk was. Elk boek, het originele en dit, staat los van het andere. Indien je van plan bent het originele boek te lezen, dan raad ik je wel aan dat te doen voor je verder gaat met dit boek. Mijn standpunten zijn geÃ«volueerd en sommige gevallen volledig veranderd of duidelijker geworden. Ik denk dat je sowieso al veel kan leren door te zien hoe ik zelf als programmeur geÃ«volueerd ben.
 
 ## Chapter 1 - Quality and Efficiency ##
 >"Quality is never an accident; it is always the result of intelligent effort." - John Ruskin
